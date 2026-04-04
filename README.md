@@ -59,6 +59,3 @@ Create a production build:
 npm run build
 ```
 
-## 📄 License
-
-MIT
