@@ -5,7 +5,7 @@ A production-grade financial tool designed to parse, analyze, and visualize Clos
 ## 🚀 Live Demo
 
 Check out the deployed project here:  
-👉 [https://your-deployment-link.com](https://closing-disclosure-analyzer.vercel.app/)
+👉 https://closing-disclosure-analyzer.vercel.app
 
 ## 🚀 Key Features
 
